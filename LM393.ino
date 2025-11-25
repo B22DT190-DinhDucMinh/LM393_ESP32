@@ -2,7 +2,7 @@
 
 unsigned long lastTrigger = 0;
 int count = 0;
-// hehel
+// hello
 void setup() {
   Serial.begin(115200);
   Serial.println("Sound Sensor Started");
